@@ -1,0 +1,17 @@
+D:\Winform\CuaHangBanThuoc\obj\Debug\CuaHangBanThuoc.csproj.AssemblyReference.cache
+D:\Winform\CuaHangBanThuoc\obj\Debug\CuaHangBanThuoc.csproj.SuggestedBindingRedirects.cache
+D:\Winform\CuaHangBanThuoc\obj\Debug\CuaHangBanThuoc.GUI.frm_HoaDon.resources
+D:\Winform\CuaHangBanThuoc\obj\Debug\CuaHangBanThuoc.GUI.frm_LoaiSanPham.resources
+D:\Winform\CuaHangBanThuoc\obj\Debug\CuaHangBanThuoc.GUI.frm_SanPham.resources
+D:\Winform\CuaHangBanThuoc\obj\Debug\CuaHangBanThuoc.GUI.frm_ThongKe.resources
+D:\Winform\CuaHangBanThuoc\obj\Debug\CuaHangBanThuoc.Properties.Resources.resources
+D:\Winform\CuaHangBanThuoc\obj\Debug\CuaHangBanThuoc.csproj.GenerateResource.cache
+D:\Winform\CuaHangBanThuoc\obj\Debug\CuaHangBanThuoc.csproj.CoreCompileInputs.cache
+D:\Winform\CuaHangBanThuoc\bin\Debug\CuaHangBanThuoc.exe.config
+D:\Winform\CuaHangBanThuoc\bin\Debug\CuaHangBanThuoc.exe
+D:\Winform\CuaHangBanThuoc\bin\Debug\CuaHangBanThuoc.pdb
+D:\Winform\CuaHangBanThuoc\obj\Debug\CuaHangBanThuoc.exe
+D:\Winform\CuaHangBanThuoc\obj\Debug\CuaHangBanThuoc.pdb
+D:\Winform\CuaHangBanThuoc\obj\Debug\CuaHangBanThuoc.Presentation.AdminFrm.resources
+D:\Winform\CuaHangBanThuoc\obj\Debug\CuaHangBanThuoc.Presentation.ChiTietHDBFrm.resources
+D:\Winform\CuaHangBanThuoc\obj\Debug\CuaHangBanThuoc.DangNhapFrm.resources
